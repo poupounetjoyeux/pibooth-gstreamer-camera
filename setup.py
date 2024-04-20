@@ -22,7 +22,10 @@ def main():
         keywords=[
             'Raspberry Pi',
             'camera',
-            'photobooth'
+            'photobooth',
+            'pibooth',
+            'plugin',
+            'C790'
         ],
         py_modules=['pibooth_gstreamer_camera'],
         python_requires=">=3.6",
